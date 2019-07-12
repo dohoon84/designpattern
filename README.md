@@ -1,4 +1,4 @@
-*********** design pattern study repository **<br>
+** design pattern study repository **
 <b>hello design patter</b>
 
 ing<br>
