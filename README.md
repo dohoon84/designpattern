@@ -8,6 +8,6 @@ Creational pattern<br>
 - 4.Prototype
 <br>
 Structural pattern<br>
-- 1.Adapter
+- 1.Adapter<br>
 - 2.Bridege
 
