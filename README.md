@@ -1,7 +1,7 @@
 **design pattern study repository**<br>
 <b>hello design patter</b>
 ````
-Creational pattern<br>
+Creational pattern
 - 1.Abstract Factory
 - 2.Builder
 - 3.Factory 
