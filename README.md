@@ -1,5 +1,5 @@
 **design pattern study repository**<br>
-<b>hello design patter</b>
+<b>hello design pattern</b>
 ````
 Creational pattern
 - 1.Abstract Factory
